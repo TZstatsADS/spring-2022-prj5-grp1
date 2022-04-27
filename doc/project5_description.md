@@ -11,7 +11,7 @@ Decision Tree: (Reference: https://www.analyticsvidhya.com/blog/2021/08/decision
 
 They are Supervised Machine Learning algorithms which can be used for classifications and Regression Problems. The name itself suggests that it uses a flowchart like a tree structure to show the predictions that result from a series of feature-based splits. It starts with a root node and ends with a decision made by leaves. It is basically a set of if-else statement created on the basis of the training data. When a new data points enters the tree, the tree checks and then parses it through either the left subtree or the right subtree.
 
-[Decision_Tree](example_figures/Decision_Tree.jpeg)
+[Decision_Tree](Decision_Tree.jpeg)
 
 Decision Tree is prone to Overfitting and one of the techniques to reduce that is the Minimal Cost-Complexity Pruning. 
 
@@ -26,7 +26,7 @@ Random Forest: (Reference: https://towardsdatascience.com/understanding-random-f
 
 Random Forest is an algorithm that acts as an ensemble of Decision Tree (a collection of Decision Trees). Each of the trees in this Random Forest provides a class, then the algorithm predicts the final class based on majority voting (that is the class that is predicted the most number of times).
 
-[Random_Forest](example_figures/Random_Forest.png)
+[Random_Forest](Random_Forest.png)
 
 The best part about this algorithm is that it is protected from a lot of errors as each trees in the algorithm works as its own. The two parameters that is important to this are:
 1) n_estimators: This signifies the number of trees that we want to build before we calculate the prediction. Greater the number of trees, better is the performance of the Random Forest.
@@ -38,7 +38,7 @@ Boosting: (Reference: https://machinelearningmastery.com/gentle-introduction-gra
 Boosting is part of ensemble technique that uses the tree models to perform classifications and regressions. Unlike Random Forest, here the output of one tree feeds into another tree. If a sample is misclassified by one of the trees then the next tree focuses on that, that is, it tries to minimize the loss function at every instance. 
 Gradient Boosting is one of the most common and famous algorithm for this type of computation, and it is the generalization of the AdaBoost Technique. But in practice, it is a very slow model, as trees are created and then added sequentially. 
 
-[Boosting](example_figures/GB.png)
+[Boosting](GB.png)
 
 
 So, we bring about two techniques stemming from Gradient Boosting.
