@@ -2,7 +2,7 @@
 
 ### The Project Description can be found [here.](doc/README.md)
 ### The Notebook File can be found in [Project5.ipynb](Tree Classifiers.ipynb)
-### The PDF can be found in [Project5.pdf](doc/Project5.pdf)
+### The PDF can be found in [Project5.pdf](doc/Project5_PDF.pdf)
 Term: Spring 2022
 
 + Group 1
