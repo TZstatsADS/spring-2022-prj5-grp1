@@ -1,7 +1,7 @@
 # Project 5: Tree Classifiers (Decision Tree, Random Forest, HistGradient Boosting, XGBoosting)
 
 ### The Project Description can be found [here.](doc/README.md)
-### The Notebook File can be found in [Project5](main/Tree_Classifiers.ipynb)
+### The Notebook File can be found in [Project5](Tree_Classifiers.ipynb)
 ### The PDF can be found in [Project5.pdf](doc/Project5_PDF.pdf)
 Term: Spring 2022
 
