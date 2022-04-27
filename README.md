@@ -1,6 +1,6 @@
 # Project 5: Tree Classifiers (Decision Tree, Random Forest, HistGradient Boosting, XGBoosting)
 
-### The Project Description can be found [here](doc/project5_description.md)
+### The Project Description can be found [here.](doc/project5_description.md)
 
 Term: Spring 2022
 
